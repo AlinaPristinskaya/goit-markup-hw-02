@@ -115,12 +115,13 @@ font-weight: 500;
 
 
  
-.header3{
+.headerthree{
   font-size: 20px;
 
 font-weight: 500;
 line-height: 1.2;
 letter-spacing: 0.4px;
+color:#2e2f42;
 
 
 }
