@@ -107,7 +107,7 @@ font-weight: 500;
 
  }
  .piple{
-  background-color: #E7E9FC;
+  background-color: #F4F4FD
  }
  .visible{
   visibility: hidden;
@@ -124,6 +124,9 @@ letter-spacing: 0.4px;
 color:#2e2f42;
 
 
+}
+.card{
+  background-color: #FFFFFF ;
 }
 .text{
 
@@ -143,7 +146,7 @@ color:#434455;
   color: #ffffff;
 }
 
-.header2{
+.headertwo{
 
 font-size: 36px;
 font-style: normal;
@@ -151,5 +154,7 @@ font-weight: 700;
 line-height: 1.11;
 letter-spacing: 0.72px;
 text-transform: capitalize;
+text-align: center;
+color: #2e2f42 ;
 }
 
