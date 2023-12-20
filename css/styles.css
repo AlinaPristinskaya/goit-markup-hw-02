@@ -26,6 +26,7 @@ letter-spacing: 0.03em;
 line-height: 1.17;
 text-transform: uppercase;
 color: #4d5ae5;
+
 }
 
 .view{
@@ -77,9 +78,9 @@ color: #4d5ae5;
   
 font-size: 56px;
 font-weight: 700;
-line-height: 0.93;
 letter-spacing: 0.02em;
 text-align: center;
+line-height: 1.07
 
   }
   .button {
@@ -95,6 +96,7 @@ letter-spacing: 0.04em;
 padding: 0;
 border: none;
 cursor: pointer;
+font-weight: 500;
 
 
 
